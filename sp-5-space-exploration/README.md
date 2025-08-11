@@ -1,19 +1,31 @@
-# Getting Started
-Install the dependencies and run the project
-```
-npm install
-npm start
-```
+# Space Exploration Landing Page
 
-Head over to https://vitejs.dev/ to learn more about configuring vite
-## About Scrimba
+This project is a simple, single-page website for a fictional space exploration company. It's a visually appealing landing page designed to attract potential explorers. The design features a cosmic theme with a dynamic background, a company logo, and a call-to-action button.
 
-At Scrimba our goal is to create the best possible coding school at the cost of a gym membership! 💜
-If we succeed with this, it will give anyone who wants to become a software developer a realistic shot at succeeding, regardless of where they live and the size of their wallets 🎉
-The Fullstack Developer Path aims to teach you everything you need to become a Junior Developer, or you could take a deep-dive with one of our advanced courses 🚀
+## Features
 
-- [Our courses](https://scrimba.com/courses)
-- [The Frontend Career Path](https://scrimba.com/fullstack-path-c0fullstack)
-- [Become a Scrimba Pro member](https://scrimba.com/pricing)
+- **Dynamic Background:** A full-screen galaxy image creates an immersive, space-themed experience.
+- **Branded Logo:** A prominent company logo is displayed at the top of the page.
+- **Catchy Headline:** A bold headline with a unique underline effect grabs the user's attention.
+- **Call-to-Action:** A clear "Apply" button encourages user engagement.
+- **Custom Font:** The project uses the **Orbitron** font from Google Fonts to reinforce the futuristic theme.
 
-Happy Coding!
+## Technologies Used
+
+- **HTML5:** Provides the structure for the landing page content.
+- **CSS3:** Handles all styling, including the background image, font styling, button design, and layout.
+
+## Project Structure
+
+- `index.html`: The main HTML file for the landing page.
+- `styles.css`: The stylesheet that defines the look and feel of the page.
+- `images/`: A directory containing the `spacex.png` logo and `galaxy.webp` background image.
+
+## Customization
+
+You can easily customize this landing page by:
+
+- **Changing the background image:** Replace `images/galaxy.webp` with your own image.
+- **Updating the logo:** Swap `images/spacex.png` with your company's logo.
+- **Modifying the text:** Change the headline and the text on the button in the `index.html` file.
+- **Adjusting the colors and fonts:** Edit the `styles.css` file to match your brand's color palette and typography.
